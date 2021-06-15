@@ -1,0 +1,17 @@
+<xml>
+    <append xpath="/blocks">
+        <block name="dryer">
+            <property name="Extends" value="campfire" param1="Class,DescriptionKey,Workstation,WorkStationWindow,CraftSound,CraftCompleteSound" />
+            <property name="Class" value="Campfire" />
+            <property name="DescriptionKey" value="campfireDesc" />
+            <property class="Workstation">
+                <property name="Modules" value="output,input" />
+                <property name="Collide" value="melee,bullet,arrow,rocket" />
+            </property>
+            <property name="WorkstationWindow" value="workstation_dryer" />
+            <property name="CraftSound" value="campfire_cook_click" />
+            <property name="CraftCompleteSound" value="campfire_complete_item" />
+        </block>
+
+    </append>
+</xml>

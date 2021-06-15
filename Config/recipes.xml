@@ -1,0 +1,7 @@
+<xml>
+    <append xpath="/recipes">
+        <recipe name="foodDriedMeat" count="1" craft_time="3600" craft_area="dryer" >
+            <ingredient name="foodRawMeat" count="1" />
+        </recipe>
+    </append>
+</xml>

@@ -1,0 +1,7 @@
+<xml>
+    <!--
+    <append xpath="/progression/perks/perk[@name='perkMasterChef']/effect_group">
+        <passive_effect name="RecipeTagUnlocked" operation="base_set" level="1,5" value="1" tags="foodDriedMeat" />
+    </append>
+-->
+</xml>

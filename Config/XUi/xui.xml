@@ -1,0 +1,11 @@
+<xml>
+    <append xpath="/xui/ruleset[@name='default']">
+        <window_group name="workstation_dryer" controller="XUiC_WorkstationWindowGroup">
+            <window name="windowCraftingList"/>
+            <window name="craftingInfoPanel"/>
+            <window name="windowParallelCraftingQueue"/>
+            <window name="windowOutputDryer" />
+            <window name="windowNonPagingHeader" />
+        </window_group>
+    </append>
+</xml>
